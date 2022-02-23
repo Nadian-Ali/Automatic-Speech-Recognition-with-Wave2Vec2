@@ -1,5 +1,5 @@
-# STT
+# َ Automatic Speech Recogniton with Wav2Vec2 and CTC  
 
+This repo contains files for performing automatic speech to text recogniton
 
-#an this file should be ok
-#why are you not updated there!
+The structure of the work is as folows:
