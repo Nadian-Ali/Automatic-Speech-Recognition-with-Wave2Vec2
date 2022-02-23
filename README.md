@@ -24,4 +24,6 @@ What you can do:
  <ul>
   <li>load model</li>
   <li>load test dataset</li>
+  <li>load uncleand transcripts</li>
+  <li>get converted text</li>
 </ul>
