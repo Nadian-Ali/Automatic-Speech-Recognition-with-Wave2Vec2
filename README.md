@@ -14,7 +14,7 @@ What you can do:
     </ul>
   </li>
   
-</ul>
+
   
   <li>Run the training script</li>
 <ul>
@@ -27,3 +27,4 @@ What you can do:
 
 </li>
 
+</ul>
