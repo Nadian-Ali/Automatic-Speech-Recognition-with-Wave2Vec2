@@ -20,15 +20,10 @@ What you can do:
   <li>Upload the traning data from S3</li>
   <li>upload model from hugging face</li>
    
-  <li><font color="red">to be done</font> upload model from local </li>
+  <li><font color="red">#to be done#</font> upload model from local </li>
   <li>perform training</li>
   <li>save checkpints to S3</li>
   </ul>
 
 </li>
 
-
-  <p><font color="red">to be done</font> upload model from local </p>
-
-<font color="red">This text is red!</font>
-The structure of the work is as folows:
