@@ -30,5 +30,5 @@ What you can do:
 
   <p><font color="red">to be done</font> upload model from local </p>
 
-
+<font color="red">This text is red!</font>
 The structure of the work is as folows:
