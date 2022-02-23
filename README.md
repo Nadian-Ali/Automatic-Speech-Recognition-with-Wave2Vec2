@@ -15,11 +15,19 @@ What you can do:
   </li>
   
  </ul>
+<li>Run the training script
+<ul>
+  <li>Upload the traning data from S3</li>
+  <li>upload model from hugging face</li>
+   
+  <li><font color:'red'>to be done</font>upload model from local </li>
+  <li>perform training</li>
+  <li>save checkpints to S3</li>
+  </ul>
+
+</li>
 
 
-1- Download any dataset from commonvoies datatsets
-  2- perform pre-processing to make the dataset ready for train
-      2.1 p
 
 
 
