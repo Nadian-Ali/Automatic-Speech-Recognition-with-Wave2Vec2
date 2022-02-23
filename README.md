@@ -20,7 +20,7 @@ What you can do:
   <li>Upload the traning data from S3</li>
   <li>upload model from hugging face</li>
    
-  <li><span style="color:red">to be done</span> upload model from local </li>
+  <li><font color="red">to be done</span> upload model from local </li>
   <li>perform training</li>
   <li>save checkpints to S3</li>
   </ul>
