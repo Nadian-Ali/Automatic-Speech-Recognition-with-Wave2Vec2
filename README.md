@@ -14,12 +14,12 @@ What you can do:
     </ul>
   </li>
   
- </ul>
-<li>Run the training script
+</ul>
+  
+  <li>Run the training script</li>
 <ul>
   <li>Upload the traning data from S3</li>
-  <li>upload model from hugging face</li>
-   
+  <li>upload model from hugging face</li>   
   <li><font color="red">#to be done#</font> upload model from local </li>
   <li>perform training</li>
   <li>save checkpints to S3</li>
