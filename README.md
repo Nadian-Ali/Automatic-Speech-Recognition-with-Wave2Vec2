@@ -1,4 +1,4 @@
-# Automatic Speech Recogniton with Wav2Vec2 and CTC  
+# Automatic Speech Recogniton with Wav2Vec2 and CTC with AWS SageMaker EC2 Instances
 
 This repo contains files for performing automatic speech to text recogniton
 
@@ -13,14 +13,11 @@ What you can do:
     <li>save the processed dataset ito S3</li>
     </ul>
   </li>
-  
-
-  
   <li>Run the training script</li>
 <ul>
   <li>Upload the traning data from S3</li>
   <li>upload model from hugging face</li>   
-  <li><font color="red">#to be done#</font> upload model from local </li>
+  <li>or, upload model from local </li>
   <li>perform training</li>
   <li>save checkpints to S3</li>
   </ul>
