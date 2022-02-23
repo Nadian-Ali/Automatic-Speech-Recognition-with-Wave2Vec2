@@ -11,17 +11,17 @@ What you can do:
     <li>Create voclablaro</li>
     <li>Train a tokenizer</li>
     <li>save the processed dataset ito S3</li>
-    </ul>
-  </li>
+    </ul></li>
   <li>Run the training script</li>
-<ul>
-  <li>Upload the traning data from S3</li>
-  <li>upload model from hugging face</li>   
-  <li>or, upload model from local </li>
-  <li>perform training</li>
-  <li>save checkpints to S3</li>
-  </ul>
-
-</li>
-
+   <ul>
+    <li>Upload the traning data from S3</li>
+    <li>upload model from hugging face</li>   
+    <li>or, upload model from local </li>
+    <li>perform training</li>
+    <li>save checkpints to S3</li>
+  </ul></li> 
+ <li>Do inference</li>
+ <ul>
+  <li>load model</li>
+  <li>load test dataset</li>
 </ul>
