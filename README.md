@@ -4,7 +4,7 @@ This repo contains files for performing automatic speech to text recogniton
 
 What you can do: 
 <ul>
-  <li>Download any dataset from commonvoies datatsets<li>
+  <li>Download any dataset from commonvoies datatsets</li>
   <li>preform the following preprocessing steps
     <ul>
     <li>clean transcripts</li>
